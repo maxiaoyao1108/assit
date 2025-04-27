@@ -1,0 +1,6 @@
+requests
+pymysql
+numpy
+scikit-learn
+matplotlib
+    
